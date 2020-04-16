@@ -1,5 +1,6 @@
 ## :sparkles: Purpose: 
 The purpose of this small app was to practice setting and updating state in a React Application. Also, I was able to practice implementing a third party API The Advice Slip JSON API (https://api.adviceslip.com/) using Axios library for the https request. 
+Demo: https://compassionate-hopper-de7424.netlify.app
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
